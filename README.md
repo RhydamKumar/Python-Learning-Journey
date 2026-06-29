@@ -87,7 +87,7 @@ I'm sharing my learning journey one topic at a time to stay consistent, improve 
 
 ## 🔗 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/rhydam-kumar-63059837b
 - GitHub: https://github.com/RhydamKumar
 
 ---
