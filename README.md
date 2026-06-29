@@ -13,15 +13,6 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 | Day | Topic | Status |
 |------|-------|--------|
 | ✅ Day 1 | Python Fundamentals | Completed |
-| ⏳ Day 2 | Strings | Coming Soon |
-| ⏳ Day 3 | Control Flow & Loops | Coming Soon |
-| ⏳ Day 4 | Functions & Modules | Coming Soon |
-| ⏳ Day 5 | Data Structures | Coming Soon |
-| ⏳ Day 6 | Object-Oriented Programming | Coming Soon |
-| ⏳ Day 7 | File Handling | Coming Soon |
-| ⏳ Day 8 | Exception Handling | Coming Soon |
-| ⏳ Day 9 | Advanced Python | Coming Soon |
-| ⏳ Day 10 | Projects | Coming Soon |
 
 ---
 
