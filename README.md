@@ -13,6 +13,7 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 | Day | Topic | Status |
 |------|-------|--------|
 | ✅ Day 1 | Python Fundamentals | Completed |
+| ✅ Day 2 | Control Flow & Loops | Completed |
 
 ---
 
@@ -33,24 +34,6 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 
 ---
 
-## 📂 Folder Structure
-
-```
-01-python-fundamentals/
-├── variables.py
-├── datatype.py
-├── typecasting.py
-├── user_input.py
-├── comments.py
-├── print_function.py
-├── operators.py
-└── practice_set.py
-```
-
-*(Update this as you add files.)*
-
----
-
 ## 🎯 What I Learned
 
 - Python syntax is simple and beginner-friendly.
@@ -59,6 +42,27 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 - Understood type casting and operators.
 - Practiced writing small Python programs.
 - Improved coding confidence through practice.
+
+---
+
+## ✅ Day 2 — Control Flow & Loops
+
+### Concepts Covered
+- If, Elif & Else Statements
+- Match-Case Statements
+- For Loops
+- While Loops
+- Break Statement
+- Continue Statement
+- Pass Statement
+- Practice Programs
+
+### What I Learned
+- Making decisions in programs using conditional statements.
+- Writing cleaner conditional logic with match-case.
+- Automating repetitive tasks using loops.
+- Controlling loop execution with break, continue, and pass.
+- Strengthening logical thinking through hands-on practice.
 
 ---
 
