@@ -14,7 +14,7 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 |------|-------|--------|
 | ✅ Day 1 | Python Fundamentals | Completed |
 | ✅ Day 2 | Control Flow & Loops | Completed |
-| ✅ | Strings | Completed |
+| ✅ Day 3 | Strings | Completed |
 
 ---
 
