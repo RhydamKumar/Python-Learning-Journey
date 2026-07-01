@@ -14,6 +14,7 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 |------|-------|--------|
 | ✅ Day 1 | Python Fundamentals | Completed |
 | ✅ Day 2 | Control Flow & Loops | Completed |
+| ✅ | Strings | Completed |
 
 ---
 
@@ -63,6 +64,40 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 - Automating repetitive tasks using loops.
 - Controlling loop execution with break, continue, and pass.
 - Strengthening logical thinking through hands-on practice.
+
+---
+
+# ✅ Day 3 — Strings
+
+## 📚 Concepts Covered
+
+- Introduction to Strings
+- Creating Strings
+- String Indexing
+- String Slicing
+- Negative Indexing
+- String Methods
+- String Formatting
+- f-Strings
+- Practice Programs
+
+---
+
+## 💡 What I Learned
+
+- Understood how strings are used to store and manipulate textual data.
+- Learned to access characters using positive and negative indexing.
+- Extracted parts of strings using slicing.
+- Explored built-in string methods such as:
+  - `upper()`
+  - `lower()`
+  - `strip()`
+  - `replace()`
+  - `split()`
+  - `find()`
+  - `count()`
+- Learned modern string formatting using **f-strings**.
+- Solved practice problems to strengthen my understanding of string operations.
 
 ---
 
