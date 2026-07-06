@@ -15,6 +15,8 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 | ✅ Day 1 | Python Fundamentals | Completed |
 | ✅ Day 2 | Control Flow & Loops | Completed |
 | ✅ Day 3 | Strings | Completed |
+| ✅ Day 4 | Function | Completed |
+| ✅ Day 5 | Data Structures| Completed |
 
 ---
 
@@ -100,7 +102,64 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 - Solved practice problems to strengthen my understanding of string operations.
 
 ---
+# ✅ Day 4 — Functions & Modules
 
+## 📚 Concepts Covered
+
+- Defining Functions
+- Function Arguments & Return Values
+- Lambda Functions
+- Recursion
+- Modules
+- Using External Libraries with `pip`
+- Variable Scope
+- Docstrings
+- Practice Programs
+
+---
+
+## 💡 What I Learned
+
+- Learned how to define reusable functions using the `def` keyword.
+- Understood how function arguments and return values make functions flexible.
+- Explored lambda functions for writing concise anonymous functions.
+- Learned recursion by solving problems where a function calls itself.
+- Understood the importance of modules for organizing code.
+- Learned how to install and use external Python libraries with `pip`.
+- Explored local and global variable scope.
+- Learned to write docstrings to improve code documentation.
+- Reinforced all concepts by solving practice exercises.
+
+---
+
+# ✅ Day 5 — Data Structures in Python
+
+## 📚 Concepts Covered
+
+- Introduction to Lists
+- List Methods
+- Tuples
+- Tuple Operations
+- Sets
+- Set Methods
+- Dictionaries
+- Dictionary Methods
+- Python Collections Practice Set
+
+---
+
+## 💡 What I Learned
+
+- Learned how lists store ordered and mutable collections of data.
+- Practiced commonly used list methods such as `append()`, `insert()`, `remove()`, `pop()`, `sort()`, and `reverse()`.
+- Understood tuples as immutable collections and when to use them.
+- Explored sets for storing unique values and performing mathematical set operations.
+- Learned dictionary creation, updating, searching, and iteration using key-value pairs.
+- Solved practice problems using different Python data structures.
+- Understood how choosing the right data structure can improve program efficiency.
+
+  ---
+  
 ## 💻 Tech Stack
 
 - Python 3.x
