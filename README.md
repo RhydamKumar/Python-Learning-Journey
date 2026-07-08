@@ -17,6 +17,7 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 | ✅ Day 3 | Strings | Completed |
 | ✅ Day 4 | Function | Completed |
 | ✅ Day 5 | Data Structures| Completed |
+| ✅ | Object-Oriented Programming (OOP) | Completed |
 
 ---
 
@@ -159,6 +160,69 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 - Understood how choosing the right data structure can improve program efficiency.
 
   ---
+  
+# ✅ Day 6 — Object-Oriented Programming (OOP)
+
+## 📚 Concepts Covered
+
+- Introduction to Object-Oriented Programming
+- Classes and Objects
+- Constructors (`__init__`)
+- Instance Attributes
+- Class Attributes
+- Inheritance
+- Polymorphism
+- Method Overriding
+- Operator Overloading
+- Practice Programs
+
+---
+
+## 💡 What I Learned
+
+- Understood the fundamentals of Object-Oriented Programming and why it is widely used in software development.
+- Learned how to create **classes** as blueprints and instantiate **objects** from them.
+- Used constructors (`__init__`) to initialize object attributes during object creation.
+- Explored the difference between **instance attributes** and **class attributes**.
+- Learned **inheritance** to reuse code and build relationships between classes.
+- Understood **polymorphism**, allowing the same interface to work with different object types.
+- Practiced **method overriding** to customize inherited behavior.
+- Learned **operator overloading** using Python's special (magic) methods.
+- Reinforced all concepts by solving practice exercises.
+
+---
+
+# 🎉 Journey Completed
+
+Successfully completed my **Python Learning Journey**, covering the core concepts required to build a strong programming foundation.
+
+### 📚 Topics Learned
+
+- Python Fundamentals
+- Control Flow & Loops
+- Strings
+- Functions & Modules
+- Data Structures
+- Object-Oriented Programming (OOP)
+
+### 🎯 What's Next?
+
+This repository marks the completion of my Python fundamentals. My next learning goals are:
+
+- 🌐 Django
+- ⚡ FastAPI
+- 🗄 SQL & Databases
+- 💻 LeetCode Problem Solving
+- 🚀 Full-Stack Web Development
+- 📂 Real-World Python Projects
+
+Thank you for visiting my repository!
+
+If you're also learning Python, I hope this repository helps you in your journey.
+
+⭐ Feel free to explore the code and connect with me on GitHub and LinkedIn.
+
+---
   
 ## 💻 Tech Stack
 
