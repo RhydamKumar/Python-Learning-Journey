@@ -17,7 +17,7 @@ I'm documenting my progress topic by topic and sharing my journey on **LinkedIn*
 | ✅ Day 3 | Strings | Completed |
 | ✅ Day 4 | Function | Completed |
 | ✅ Day 5 | Data Structures| Completed |
-| ✅ | Object-Oriented Programming (OOP) | Completed |
+| ✅ Day 6 | Object-Oriented Programming (OOP) | Completed |
 
 ---
 
